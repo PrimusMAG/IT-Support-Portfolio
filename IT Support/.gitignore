@@ -1,0 +1,22 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# Credentials & env
+*.env
+*.pem
+*.key
+
+# Python / node artifacts (jika ada)
+venv/
+node_modules/
+
+# Large files / models
+*.pkl
+*.h5
+models/
+data/
+
+# Private docs and original screenshots
+docs/private_notes.md
+screenshots/
