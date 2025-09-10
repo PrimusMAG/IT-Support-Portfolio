@@ -1,22 +1,22 @@
-# OS
+# Windows
 Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+.vscode/*
+
+# macOS
 .DS_Store
 
-# Credentials & env
-*.env
-*.pem
-*.key
+# Python caches (if any)
+__pycache__/
+*.pyc
 
-# Python / node artifacts (jika ada)
-venv/
+# Large files / temp
+*.log
+*.tmp
+
+# Node (if any)
 node_modules/
-
-# Large files / models
-*.pkl
-*.h5
-models/
-data/
-
-# Private docs and original screenshots
-docs/private_notes.md
-screenshots/
