@@ -13,7 +13,7 @@ All cases are documented with clear steps, configurations, and outcomes.
 2. [**Project 2: Linux Troubleshooting**](./Docs/Linux_Troubleshooting.md)  
    A user could not access a file, showing "Permission denied" and The hosted website was not accessible because the Apache service was stopped.
 
-3. [**Project 3: Network Infrastructure (Vlan and Routing**](./Docs/Network_infrastructure_Vlan_and_Routing.md)  
+3. [**Project 3: Network Infrastructure (Vlan and Routing)**](./Docs/Network_infrastructure_Vlan_and_Routing.md)  
    Hosts across departments could not communicate because VLANs were not configured and Hosts on different networks could not ping each other because no routing was configured.
 
 ---
