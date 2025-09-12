@@ -1,0 +1,22 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+.vscode/*
+
+# macOS
+.DS_Store
+
+# Python caches (if any)
+__pycache__/
+*.pyc
+
+# Large files / temp
+*.log
+*.tmp
+
+# Node (if any)
+node_modules/
