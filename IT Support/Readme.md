@@ -18,4 +18,3 @@ All cases are documented with clear steps, configurations, and outcomes.
 
 ---
 
-## 📂 Repository Structure
